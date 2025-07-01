@@ -1,0 +1,2 @@
+# BloodOddsSim
+A betting simulator
