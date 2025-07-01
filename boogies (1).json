@@ -1,0 +1,162 @@
+[
+    {
+        "name": "Lil Abyss",
+        "race": "Boogie",
+        "power": 89,
+        "agility": 80,
+        "durability": 54,
+        "fatigue": 15,
+        "injury": 4,
+        "hex": "Blood Drain"
+    },
+    {
+        "name": "Carti Slime",
+        "race": "Boogie",
+        "power": 72,
+        "agility": 88,
+        "durability": 59,
+        "fatigue": 16,
+        "injury": 3,
+        "hex": "Shadow Step"
+    },
+    {
+        "name": "Trench Baby",
+        "race": "Boogie",
+        "power": 58,
+        "agility": 64,
+        "durability": 97,
+        "fatigue": 17,
+        "injury": 0,
+        "hex": "Mind Twist"
+    },
+    {
+        "name": "Glo Demon",
+        "race": "Boogie",
+        "power": 73,
+        "agility": 95,
+        "durability": 60,
+        "fatigue": 5,
+        "injury": 4,
+        "hex": "Soul Burn"
+    },
+    {
+        "name": "NoHeart Ken",
+        "race": "Boogie",
+        "power": 98,
+        "agility": 69,
+        "durability": 65,
+        "fatigue": 19,
+        "injury": 0,
+        "hex": "Soul Burn"
+    },
+    {
+        "name": "RageBandit",
+        "race": "Boogie",
+        "power": 77,
+        "agility": 96,
+        "durability": 79,
+        "fatigue": 2,
+        "injury": 4,
+        "hex": "Mind Twist"
+    },
+    {
+        "name": "Lean Fangz",
+        "race": "Boogie",
+        "power": 64,
+        "agility": 90,
+        "durability": 95,
+        "fatigue": 20,
+        "injury": 8,
+        "hex": "Soul Burn"
+    },
+    {
+        "name": "Opium Ghost",
+        "race": "Boogie",
+        "power": 99,
+        "agility": 93,
+        "durability": 99,
+        "fatigue": 9,
+        "injury": 1,
+        "hex": "Soul Burn"
+    },
+    {
+        "name": "KenThaMenace",
+        "race": "Boogie",
+        "power": 62,
+        "agility": 98,
+        "durability": 92,
+        "fatigue": 8,
+        "injury": 5,
+        "hex": "Grave Echo"
+    },
+    {
+        "name": "G59 Priest",
+        "race": "Boogie",
+        "power": 69,
+        "agility": 84,
+        "durability": 75,
+        "fatigue": 0,
+        "injury": 7,
+        "hex": "Shadow Step"
+    },
+    {
+        "name": "SlickVamp",
+        "race": "Boogie",
+        "power": 91,
+        "agility": 70,
+        "durability": 56,
+        "fatigue": 13,
+        "injury": 10,
+        "hex": "Grave Echo"
+    },
+    {
+        "name": "Wok Reaper",
+        "race": "Boogie",
+        "power": 91,
+        "agility": 60,
+        "durability": 87,
+        "fatigue": 12,
+        "injury": 3,
+        "hex": "Soul Burn"
+    },
+    {
+        "name": "DieSlatt",
+        "race": "Boogie",
+        "power": 72,
+        "agility": 69,
+        "durability": 92,
+        "fatigue": 12,
+        "injury": 5,
+        "hex": "Soul Burn"
+    },
+    {
+        "name": "Zooted Phantom",
+        "race": "Boogie",
+        "power": 95,
+        "agility": 61,
+        "durability": 66,
+        "fatigue": 1,
+        "injury": 3,
+        "hex": "Mind Twist"
+    },
+    {
+        "name": "DrainKidd",
+        "race": "Boogie",
+        "power": 54,
+        "agility": 98,
+        "durability": 62,
+        "fatigue": 7,
+        "injury": 5,
+        "hex": "Shadow Step"
+    },
+    {
+        "name": "Blxxdborn",
+        "race": "Boogie",
+        "power": 60,
+        "agility": 95,
+        "durability": 61,
+        "fatigue": 16,
+        "injury": 2,
+        "hex": "Shadow Step"
+    }
+]

@@ -1,0 +1,162 @@
+[
+    {
+        "name": "King Vamp",
+        "race": "Vamp",
+        "power": 98,
+        "agility": 98,
+        "durability": 89,
+        "fatigue": 16,
+        "injury": 6,
+        "hex": "Whole Lotta Red"
+    },
+    {
+        "name": "Lord of Chaos",
+        "race": "Vamp",
+        "power": 74,
+        "agility": 91,
+        "durability": 85,
+        "fatigue": 5,
+        "injury": 8,
+        "hex": "Gore Core"
+    },
+    {
+        "name": "H I M",
+        "race": "Vamp",
+        "power": 75,
+        "agility": 68,
+        "durability": 100,
+        "fatigue": 5,
+        "injury": 4,
+        "hex": "Ozeba"
+    },
+    {
+        "name": "Young Dabo",
+        "race": "Vamp",
+        "power": 94,
+        "agility": 73,
+        "durability": 70,
+        "fatigue": 19,
+        "injury": 9,
+        "hex": "Cartier Eclipse"
+    },
+    {
+        "name": "YoungKupa",
+        "race": "Vamp",
+        "power": 100,
+        "agility": 66,
+        "durability": 71,
+        "fatigue": 2,
+        "injury": 8,
+        "hex": "Rage Virus"
+    },
+    {
+        "name": "Beno!",
+        "race": "Vamp",
+        "power": 57,
+        "agility": 78,
+        "durability": 94,
+        "fatigue": 3,
+        "injury": 9,
+        "hex": "Whole Lotta Red"
+    },
+    {
+        "name": "Slime Bound",
+        "race": "Vamp",
+        "power": 56,
+        "agility": 92,
+        "durability": 79,
+        "fatigue": 1,
+        "injury": 9,
+        "hex": "Cartier Eclipse"
+    },
+    {
+        "name": "Draco",
+        "race": "Vamp",
+        "power": 81,
+        "agility": 68,
+        "durability": 74,
+        "fatigue": 12,
+        "injury": 4,
+        "hex": "Narcotic Pulse"
+    },
+    {
+        "name": "Orcad",
+        "race": "Vamp",
+        "power": 64,
+        "agility": 74,
+        "durability": 83,
+        "fatigue": 9,
+        "injury": 3,
+        "hex": "Lean Ritual"
+    },
+    {
+        "name": "Cash Carti",
+        "race": "Vamp",
+        "power": 85,
+        "agility": 58,
+        "durability": 76,
+        "fatigue": 7,
+        "injury": 2,
+        "hex": "Cartier Eclipse"
+    },
+    {
+        "name": "Onyx",
+        "race": "Vamp",
+        "power": 81,
+        "agility": 58,
+        "durability": 79,
+        "fatigue": 17,
+        "injury": 7,
+        "hex": "Opium Pulse"
+    },
+    {
+        "name": "Vamp of Mayers",
+        "race": "Vamp",
+        "power": 82,
+        "agility": 65,
+        "durability": 63,
+        "fatigue": 19,
+        "injury": 1,
+        "hex": "Slatt Surge"
+    },
+    {
+        "name": "Burberry Ery",
+        "race": "Vamp",
+        "power": 66,
+        "agility": 66,
+        "durability": 75,
+        "fatigue": 15,
+        "injury": 10,
+        "hex": "Slatt Surge"
+    },
+    {
+        "name": "Dr Campos",
+        "race": "Vamp",
+        "power": 61,
+        "agility": 75,
+        "durability": 61,
+        "fatigue": 3,
+        "injury": 7,
+        "hex": "Narcotic Pulse"
+    },
+    {
+        "name": "Homixide Duke",
+        "race": "Vamp",
+        "power": 66,
+        "agility": 55,
+        "durability": 54,
+        "fatigue": 8,
+        "injury": 10,
+        "hex": "Slatt Surge"
+    },
+    {
+        "name": "SS",
+        "race": "Vamp",
+        "power": 50,
+        "agility": 55,
+        "durability": 57,
+        "fatigue": 1,
+        "injury": 10,
+        "hex": "Gore Core"
+    }
+]
